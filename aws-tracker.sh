@@ -1,10 +1,10 @@
 #!/bin/bash
-#
+##
 #author= shadab
 #versionm = 1
 #date=11/10/2024
 
-
+#
 #echo "Printing AWS resources, EC2, lambda functions, s3 buckets and IAM roles"
 
 #Printing EC2 instances
